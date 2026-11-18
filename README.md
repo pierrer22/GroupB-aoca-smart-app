@@ -8,6 +8,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
   - [Key Features](#key-features)
+  - [Screenshots](#screenshots)
   - [Architecture & Tech Stack](#architecture--tech-stack)
   - [Directory Structure](#directory-structure)
 - [Getting Started](#getting-started)
@@ -43,6 +44,38 @@ It provides cognitive assessments, routine daily reminders, appointment booking,
 - **Doctor & Clinician Portal:** Dedicated clinical dashboard enabling verified physicians to review patient progress, manage caregiver assignments, and initiate direct consultations.
 - **Google Sign-In & Email Authentication:** Multi-provider authentication synchronised directly with Realtime Database user profiles.
 - **Elderly-Centric Accessibility:** High-contrast colorways, dynamic typography scaling, and non-wrapping horizontal menu navigation tailored for elderly legibility.
+
+---
+
+## Screenshots
+
+### Authentication & Patient Dashboard
+
+| Login | Reminders | Assessments | Memory Games |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/01-login.png" width="200" alt="Login Screen" /> | <img src="docs/screenshots/02-patient-reminders.png" width="200" alt="Patient Reminders" /> | <img src="docs/screenshots/03-patient-assessments.png" width="200" alt="Patient Assessments" /> | <img src="docs/screenshots/04-patient-games.png" width="200" alt="Memory Games" /> |
+
+### Health Tracking & Appointments
+
+| Progress Analytics | Health Survey | Daily Activities | Book Appointment |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/05-patient-progress.png" width="200" alt="Progress Analytics" /> | <img src="docs/screenshots/06-health-survey.png" width="200" alt="Health Survey" /> | <img src="docs/screenshots/07-daily-activities.png" width="200" alt="Daily Activities" /> | <img src="docs/screenshots/08-book-appointment.png" width="200" alt="Book Appointment" /> |
+
+### Communication, Support & Accessibility
+
+| Appointment History | Contact & Support | Chat List | Chat Conversation |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/09-appointment-history.png" width="200" alt="Appointment History" /> | <img src="docs/screenshots/10-contact-support.png" width="200" alt="Contact and Support" /> | <img src="docs/screenshots/11-patient-chat-list.png" width="200" alt="Patient Chat List" /> | <img src="docs/screenshots/12-chat-conversation.png" width="200" alt="Chat Conversation" /> |
+
+| Accessibility Settings | Help & FAQ |
+| :---: | :---: |
+| <img src="docs/screenshots/13-settings-accessibility.png" width="200" alt="Accessibility Settings" /> | <img src="docs/screenshots/14-help-faq.png" width="200" alt="Help and FAQ" /> |
+
+### Doctor & Clinician Portal
+
+| Patient Results | Compare Results | Patient Game Scores | Assignments | Doctor Chat List |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/15-doctor-patient-results.png" width="170" alt="Doctor Patient Results" /> | <img src="docs/screenshots/16-doctor-compare-results.png" width="170" alt="Compare Patient Results" /> | <img src="docs/screenshots/17-doctor-game-scores.png" width="170" alt="Patient Game Scores" /> | <img src="docs/screenshots/18-doctor-assignments.png" width="170" alt="Doctor Assignments" /> | <img src="docs/screenshots/19-doctor-chat-list.png" width="170" alt="Doctor Chat List" /> |
 
 ---
 
